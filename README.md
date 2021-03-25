@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prasanna-1234
 - 👀 I’m interested in devloping field
-- 🌱 I’m currently learning python as well responsive website
-- 💞️ I’m looking to collaborate on tech dinamics
+- 🌱 I’m currently learning python as well as responsive website
+- 💞️ I’m looking to collaborate with tech dinamites
 - 📫 How to reach me ...
 
 <!---
